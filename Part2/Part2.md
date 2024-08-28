@@ -12,3 +12,4 @@
 	a. Branch - A branch allows for development off of the main code without having that main code affected. You can merge the branch and the main afterwards when the branch is ready
 	b. Pull - Get the latest repository from the remote repository and update your local repository..
 	c. Push - Upload your local repository to the remote repository 
+	d. repository - 
