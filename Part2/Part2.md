@@ -18,10 +18,13 @@ which can be seen by anyone, or private.
 	1. Merge -  A merge is an action in Git where you get one branch from a repository and merge it into another.
 	
 4. If you are working at a company, which of their policies and procedures might relate to using version control systems such as Git.
-	1. Pulling before working in the policy and procedure as if someone works on an old copy or forgets to pull that would lead to conflicts with the code.
-	1. Naming Pushes and changes appropriately would allow for clear organisation and communication.
-	1. Working in Branches when testing and developing code would ensure the main code is safe from errors and bugs from development.
-	1. Communicating when wanting to revert back a change or merge a branch so merge conflict errors are minimal.
+	1. Ensuring every computer at the company is updated with the latest cyber security.
+	1. There are no trip hazards at the office.
+	1. There are no copyright materials.
+	1. Workplace bullying and harassment policy.
+	1. Code of Conduct.
+	1. Privacy policy.
+	1. The right to disconnect law.
 5. Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
 	1. Visual studio code has tools to let you know what and where the merge conflict is.
 	1. git mergetool can be run after a merge to resolve merge conflicts.
